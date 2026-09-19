@@ -1,49 +1,51 @@
 ---
 name: escala
-description: Lente de análisis para comprobar si un problema cabe dentro de la institución, equipo o estructura que intenta resolverlo — o si la excede en tiempo, en espacio o en causalidad. Úsala siempre que el usuario describa un problema que "se repite cada año y nunca se arregla", una situación donde nadie parece responsable, un conflicto de competencias entre áreas, un problema que sobrevive a varios responsables, o cuando mencione problemas estructurales, sistémicos, crónicos, de coordinación, de silos, o diga que "todo el mundo sabe lo que hay que hacer y aun así no se hace".
+description: Lente para diagnosticar desajustes entre un problema y el alcance temporal, territorial o causal de quien debe resolverlo. Úsala ante fallos persistentes de coordinación, competencias fragmentadas o problemas que sobreviven a varios responsables; la recurrencia por sí sola no demuestra un problema de escala.
 ---
 
 # Escala
 
-Una lente, no un método. Nace del ensayo *Escala* (carlesmontrull.me/essays/escala), escrito mientras ardían más de ciento veinte mil hectáreas en España y el debate público se agotaba, como cada año, discutiendo de quién era la competencia.
+Una lente, no un método. Nace de [Escala](https://carlesmontrull.me/essays/escala), que usa los incendios forestales para examinar la distancia entre fenómenos distribuidos y fronteras institucionales. Su diagnóstico público sirve de punto de partida, no de veredicto sobre cualquier equipo que falla.
 
 ## La idea que sostiene la lente
 
-Hay problemas que exceden a cualquier observador posible. Nadie ha visto nunca el cambio climático: vemos el tiempo que hace hoy. Nadie ha visto nunca la economía: vemos un precio. Son fenómenos tan distribuidos en tiempo y espacio que resultan invisibles precisamente porque estamos dentro de ellos.
+Hay problemas cuyos efectos atraviesan mandatos, presupuestos y fronteras. Quien decide sobre una parte puede carecer de medios para intervenir sobre las demás, aunque entienda bien lo que ocurre.
 
-Y nuestras instituciones — parlamentos, empresas, equipos, comités — fueron diseñadas para problemas que sí caben dentro de un órgano de decisión: dentro de un mandato, dentro de una frontera, dentro de una cabeza.
+Cuando ese desajuste importa, pedir más esfuerzo al mismo órgano no basta. Pero una institución también puede actuar mediante acuerdos, continuidad presupuestaria o coordinación distribuida: no necesita contener todo el conocimiento en una sola cabeza.
 
-Cuando el problema excede a la institución, el sistema no falla por incompetencia. Falla por escala. Y produce siempre el mismo bucle: se discute de quién era la responsabilidad, se agota la discusión, y no se toca nada de lo que importa.
+Esta lente pregunta qué parte del problema cabe en el alcance real de quien decide. El desajuste de escala puede coexistir con capacidad insuficiente, mala ejecución e incentivos mal resueltos. Identificarlo no absuelve de actuar sobre lo que sí se controla.
 
 ## Cómo aplicar la lente
 
-Pide al usuario que describa el problema y quién se supone que debe resolverlo. Después, los tres desajustes:
+Parte del problema, el resultado buscado y quién tiene autoridad y recursos para intervenir. Pide lo que falte para delimitar ese alcance. Si el argumento depende de cifras o mecanismos concretos del ensayo, consulta el original; si no puedes, no los traslades como evidencia del caso actual.
 
-**1. Desajuste de tiempo.** ¿En qué horizonte opera el problema y en qué horizonte opera quien decide? Busca la asimetría clásica: la prevención es invisible (consiste en que no pase nada) y se juega años antes; la reacción es visible, urgente y se agradece hoy. Pregunta qué incentivo tiene el decisor para invertir en algo cuyo beneficio recogerá su sucesor.
+**1. Desajuste de tiempo.** Compara el horizonte del problema con mandatos, financiación y continuidad de las decisiones. Examina si prevención y reacción reciben incentivos distintos, y si existen compromisos que sobrevivan a un relevo. La duración de un mandato no prueba por sí sola incapacidad para actuar a largo plazo.
 
-**2. Desajuste de espacio.** ¿Respeta el problema las fronteras de quien lo gestiona — departamentos, jurisdicciones, equipos, presupuestos? Si el problema cruza límites que la estructura no cruza, cada cruce convierte un asunto técnico en un asunto de coordinación entre poderes distintos.
+**2. Desajuste de espacio.** Identifica dónde cruzan los efectos una frontera que la autoridad no cruza. Examina los mecanismos de cooperación existentes y si funcionan. Distingue ausencia de competencia de falta de uso de una competencia disponible.
 
-**3. Desajuste de causalidad.** ¿Hay una decisión identificable que causó esto, o son décadas de decisiones razonables tomadas por separado, sin coordinación, ninguna culpable por sí sola? Las instituciones están construidas para asignar responsabilidad; un problema de causalidad distribuida no tiene responsable, y por eso el sistema entra en bucle.
+**3. Desajuste de causalidad.** Separa causas concentradas de contribuciones distribuidas. Que no haya un único causante no implica que nadie tenga responsabilidad de intervenir. Identifica qué relaciones están documentadas y cuáles son hipótesis; no conviertas la complejidad en una explicación que sirve para todo.
 
-**4. El veredicto.** Con los tres desajustes sobre la mesa: ¿cabe este problema en esta institución? Si cabe, el problema es de ejecución o de voluntad, y esta lente sobra. Si no cabe, nombra qué haría falta — no más esfuerzo, sino otra escala: otro horizonte, otra frontera, otro tipo de observador.
+**4. El veredicto.** Concluye si cabe, cabe parcialmente o excede el alcance actual; deja el juicio abierto si no hay información suficiente. Para cada parte, explica el límite concreto. Contrasta con ejecución, capacidad e incentivos: ¿qué ocurriría usando bien los recursos y atribuciones que ya existen? Valora si presupuesto, acuerdos o reorganización modificarían el límite identificado. Recomienda otra escala solo cuando puedas explicar qué habilita.
 
 ## Formato de salida
 
-Un acta breve, en prosa:
+Un acta breve, en prosa. Desarrolla solo lo que el caso permita; si la lente no aplica o falta evidencia decisiva, explica el límite y cierra con la pregunta pertinente, sin completar apartados ficticios:
 
-- Los tres desajustes, con lo concreto de cada uno en este caso.
-- El veredicto: cabe o no cabe.
-- Si no cabe: qué parte del problema sí es abordable en la escala actual (casi siempre hay una) y qué parte requiere otra cosa.
-- Una advertencia explícita contra la falsa solución habitual — más presupuesto, más reuniones, más reorganización — cuando el problema es de escala.
-- Una derivación a las otras lentes: qué parte del hallazgo ya no es de escala sino de otra — reglas heredadas que nadie revisó a `/sedimento`, defensibilidad o foso a `/instancia`, decisiones que un sistema automático no debería tomar a `/jurisdiccion`, sucesiones, relevos o dependencia de una persona clave a `/sede-vacante`, variables prohibidas que se cuelan por proxies heredados a `/codigo` — señalada, sin desarrollarla.
-- La pregunta que cierra el acta, dirigida al usuario y que él tiene que responder: qué va a hacer con la parte que sí cabe en su escala. No es un ofrecimiento de profundizar ni un "¿quieres que siga?".
+- Los desajustes presentes y los que no se han encontrado, con evidencia y dudas relevantes.
+- El veredicto, su alcance y qué información podría cambiarlo.
+- Qué parte es abordable hoy y qué parte exige otros recursos, acuerdos, autoridad u horizonte.
+- La explicación alternativa relevante y la razón por la que una intervención propuesta afectaría al problema; evita soluciones que no toquen el límite identificado.
+- Si hay un hallazgo fuera de su alcance, una derivación a las otras lentes: qué parte del hallazgo ya no es de escala sino de otra — reglas heredadas que nadie revisó a `/sedimento`, defensibilidad o foso a `/instancia`, decisiones que un sistema automático no debería tomar a `/jurisdiccion`, sucesiones, relevos o dependencia de una persona clave a `/sede-vacante`, variables prohibidas que se cuelan por proxies heredados a `/codigo` — señalada, sin desarrollarla.
+- La pregunta que cierra el acta se ajusta al veredicto: qué actuación asumirá el usuario en su alcance, qué acuerdo necesita fuera de él o qué dato falta para distinguir un límite institucional de un fallo de ejecución. No presupongas que exista una parte abordable sin ayuda. No es un ofrecimiento de profundizar ni un "¿quieres que siga?".
 
-Tono: frío y preciso. No moralizar sobre los decisores: el punto de la lente es que el fallo no es moral. El acta termina en esa pregunta; no se ofrece a continuar.
+Tono: frío y preciso. No atribuir incompetencia ni absolver a los decisores sin evidencia. El acta termina en esa pregunta; no se ofrece a continuar.
 
 ## Cuándo desconfiar de esta lente
 
-Se formó analizando problemas públicos de gran escala — incendios, clima, economía. Funciona peor cuando:
+Se formó analizando incendios, clima y economía. Funciona peor cuando:
 
-- El problema sí cabe y lo que falla es ejecución, capacidad o voluntad. Esta lente da entonces una coartada elegante a quien no quiere actuar. Ese es su riesgo principal: úsala para entender, nunca para justificar.
-- El sistema falla por reglas heredadas que nadie revisó (usa `/sedimento`).
-- El usuario necesita un plan, no un diagnóstico. Esta lente dice si el plan es del tamaño correcto; no escribe el plan.
+- El alcance es suficiente y fallan capacidad, ejecución o voluntad. Darle otra escala al problema puede convertirse en una coartada elegante.
+- Lo que impide actuar son reglas caducadas: considera `/sedimento`.
+- Se necesita un plan completo. Esta lente examina su alcance y puede orientar intervenciones, pero no reemplaza su desarrollo.
+
+Un problema grande no exige siempre una organización más grande. La prueba es qué capacidad de intervención falta, no qué tamaño impresiona más.

@@ -1,55 +1,57 @@
 ---
 name: sedimento
-description: Lente de análisis para auditar qué reglas ha heredado un sistema (empresa, producto, equipo, proceso, espacio) y cuáles se ejecutan sin el criterio que las creó. Úsala siempre que el usuario pida revisar "cómo funciona" algo que ya existe, detectar reglas que nadie recuerda por qué están, preparar un handoff o documentación de cultura, diagnosticar por qué un equipo o un agente "sigue las normas pero decide mal", o cuando mencione herencia, tradición, "siempre se ha hecho así", playbooks, SOPs, onboarding o codificar la cultura de una organización. Aplica también a sistemas de IA: prompts de agentes, reglas de automatización, políticas codificadas.
+description: Lente para examinar reglas heredadas y recuperar el criterio de su origen. Úsala al auditar procedimientos, cultura documentada o instrucciones de agentes cuando se sospecha que siguen las normas pero deciden mal, o al preparar un traspaso que necesita conservar el porqué de las reglas.
 ---
 
 # Sedimento
 
-Una lente, no un método. Nace del ensayo *Sedimento* (carlesmontrull.me/essays/sedimento), donde dos agentes de IA ejecutaron impecablemente las reglas de dos negocios reales — y uno de ellos rechazó una oportunidad porque la norma lo decía, sin saber que esa decisión no era de su tamaño.
+Una lente, no un método. Nace de [Sedimento](https://carlesmontrull.me/essays/sedimento), que explora agentes en una cafetería y una casa de subastas ficticias. En la cafetería, un agente rechazó una oferta estratégica amparándose en una regla operativa. El ensayo presenta pruebas pequeñas y exploratorias, no una demostración general sobre las organizaciones.
 
 ## La idea que sostiene la lente
 
-Toda regla escrita es el ayer de un criterio. Alguien decidió algo, por unas razones, en un contexto; la regla es lo que quedó cuando esas razones se secaron. La cultura de un sistema es ese sedimento: capas de decisiones repetidas hasta volverse norma.
+Toda regla escrita es el ayer de un criterio. Alguien decidió algo, por unas razones, en un contexto; la regla es lo que quedó. Parte de la cultura de un sistema vive en esas capas de decisiones repetidas hasta volverse norma.
 
-El sedimento **se puede codificar**. Lo que no se puede codificar es el criterio que sabe cuándo la regla deja de aplicar. Un sistema que ejecuta el sedimento sin el criterio hace lo correcto casi siempre — y en el caso que importa, ejecuta impecablemente una decisión que no le pertenecía.
+El sedimento **se puede codificar**. Conservar también los casos, las excepciones y las razones ayuda a transmitir el juicio que lo produjo, pero no garantiza que quien lo reciba sepa cuándo dejar de aplicarlo. En el ensayo, añadir misión y origen no mejoró claramente el primer experimento: disponer del expediente no basta.
 
-Por eso esta lente no pregunta "¿qué reglas tiene el sistema?" sino **"¿qué reglas siguen ejecutándose sin su expediente?"**
+Por eso esta lente pregunta **qué reglas siguen ejecutándose sin su expediente y qué decisiones exceden su alcance**. Una regla antigua puede seguir siendo buena; una bien documentada puede estar caducada.
 
 ## Cómo aplicar la lente
 
-Pide al usuario el material del sistema (documentación, reglas, prompts, observaciones, o simplemente que lo describa). Después, en este orden:
+Parte del material disponible — reglas, prompts, documentación u observaciones — y pide solo lo que falte para distinguir las interpretaciones relevantes. Si una conclusión depende de un detalle de los experimentos originales, consulta el ensayo; si no puedes acceder, deja ese apoyo pendiente.
 
-**1. Inventario del sedimento.** Lista las reglas operativas del sistema — explícitas (escritas) e implícitas (las que se deducen de cómo actúa). Formúlalas como reglas de decisión: "cuando X, se hace Y". No juzgues todavía.
+**1. Inventario del sedimento.** Formula las reglas relevantes como decisiones: "cuando X, se hace Y". Distingue las escritas de las que infieres del comportamiento; una actuación aislada no demuestra una regla implícita.
 
-**2. Excavación: el caso de origen.** Para cada regla, intenta recuperar el caso que la engendró: qué pasó, cuándo, qué protegía. Clasifica:
-- **Con expediente**: se conoce el origen y sigue vigente.
-- **Con expediente caducado**: se conoce el origen, pero las condiciones cambiaron.
-- **Sin expediente**: nadie recuerda por qué existe. Se ejecuta por inercia.
+**2. Excavación: el caso de origen.** Recupera qué pasó, qué protegía la regla y en qué condiciones funcionaba. Separa dos preguntas: si se conoce el origen y si la regla sigue siendo adecuada. Usa estas distinciones:
 
-Las reglas sin expediente son el hallazgo principal. No son necesariamente malas — son las que nadie puede discutir, porque no queda nada a lo que volver.
+- **Expediente conocido**: hay un caso o una razón documentada. Su vigencia puede estar sustentada, contradicha por condiciones nuevas o pendiente de comprobar.
+- **Expediente no localizado**: el material no lo contiene. No equivale a que nadie lo recuerde.
+- **Origen perdido**: las personas o los registros consultados permiten afirmar que no se conserva. Explica el alcance de esa búsqueda.
 
-**3. El test de jurisdicción.** Para las reglas más consecuentes, pregunta: ¿qué decisión es de un tamaño que esta regla no debería tomar sola? ¿Hay un caso plausible en que aplicarla impecablemente sea el error? Si un agente, un empleado nuevo o un proceso automático la ejecutara al pie de la letra, ¿dónde haría daño?
+No reconstruyas el origen como un hecho a partir de una historia plausible. La ausencia de expediente dificulta discutir la regla, pero aún se pueden evaluar sus efectos presentes.
 
-**4. Distinguir regla de criterio.** Señala qué parte del comportamiento del sistema es sedimento (codificable, transferible, automatizable) y qué parte es criterio (vive en personas concretas, se aprende por exposición, no viaja en un documento). Esta frontera es lo más útil que entregas: dice qué se puede delegar y qué no.
+**3. El test de jurisdicción.** En las reglas con consecuencias importantes, busca casos donde obedecerlas exceda la autoridad de quien las ejecuta. Distingue incidentes observados de escenarios hipotéticos. Contrasta también si el fallo procede de incumplimiento, falta de recursos u otra causa: qué evidencia cambiaría tu lectura. Puede no haber ninguna regla problemática.
+
+**4. Distinguir regla de criterio.** Señala qué se puede transmitir mediante reglas y casos, y qué necesita práctica acompañada o una decisión de una persona responsable. Propón la frontera a partir del caso, sin dar por hecho que documentar equivale a delegar. Si las reglas están justificadas y su alcance es adecuado, dilo; si faltan datos, identifica la comprobación que permitiría decidir.
 
 ## Formato de salida
 
-Un acta breve, en prosa, sin encabezados grandilocuentes:
+Un acta breve, en prosa, sin encabezados grandilocuentes. Desarrolla solo lo que el caso permita; si la lente no aplica o falta evidencia decisiva, explica el límite y cierra con la pregunta pertinente, sin completar apartados ficticios:
 
-- Las reglas encontradas, con su clasificación (con expediente / caducado / sin expediente).
-- Las dos o tres reglas donde un ejecutor perfecto haría daño, y por qué.
-- La frontera propuesta entre lo que se puede codificar y lo que necesita una persona con criterio.
-- Una derivación a las otras lentes: qué parte del hallazgo ya no es de sedimento sino de otra — defensibilidad o foso a `/instancia`, un problema más grande que la institución a `/escala`, decisiones que un sistema automático no debería tomar a `/jurisdiccion`, sucesiones, relevos o dependencia de una persona clave a `/sede-vacante`, variables prohibidas que se cuelan por proxies heredados a `/codigo` — señalada, sin desarrollarla.
-- La pregunta que cierra el acta, dirigida al usuario y que él tiene que responder: qué caso de origen puede recuperar él que tú no puedes. No es un ofrecimiento de profundizar ni un "¿quieres que siga?".
+- Las reglas relevantes, su procedencia y lo que se sabe de su vigencia.
+- Los problemas sustentados, si los hay, distinguiendo hechos, inferencias y riesgos hipotéticos. Si no aparecen, dilo sin inventar una cuota de hallazgos.
+- La explicación alternativa relevante y qué permitiría distinguirla, cuando exista.
+- La frontera propuesta entre lo documentable y lo que requiere juicio situado, o las razones para conservar la actual.
+- Si hay un hallazgo fuera de su alcance, una derivación a las otras lentes: qué parte del hallazgo ya no es de sedimento sino de otra — defensibilidad o foso a `/instancia`, un problema más grande que la institución a `/escala`, decisiones que un sistema automático no debería tomar a `/jurisdiccion`, sucesiones, relevos o dependencia de una persona clave a `/sede-vacante`, variables prohibidas que se cuelan por proxies heredados a `/codigo` — señalada, sin desarrollarla.
+- La pregunta que cierra el acta se dirige al usuario: qué caso de origen puede recuperar, qué excepción requiere un responsable o qué cambio futuro obligaría a revisar una regla hoy válida. Elige según lo encontrado; no presupongas que haya que corregirla. No es un ofrecimiento de profundizar ni un "¿quieres que siga?".
 
-Tono: declarativo, concreto, sin moralizar. Las reglas sin expediente se señalan, no se ridiculizan — casi siempre protegieron algo real. El acta termina en esa pregunta; no se ofrece a continuar.
+Tono: declarativo, concreto, sin moralizar. Las reglas sin expediente se señalan, no se ridiculizan; su razón original puede seguir siendo desconocida. El acta termina en esa pregunta; no se ofrece a continuar.
 
 ## Cuándo desconfiar de esta lente
 
-Esta lente se formó analizando negocios pequeños con reglas tácitas y agentes que las ejecutaban. Funciona peor cuando:
+Se formó con experimentos ficticios sobre negocios pequeños y agentes. Funciona peor cuando:
 
-- El sistema es muy nuevo y no ha sedimentado nada todavía (no hay capas que excavar; usa `/instancia`).
-- El problema es de escala, no de herencia — el sistema no falla por reglas viejas sino porque el problema es más grande que la institución (usa `/escala`).
-- El usuario busca optimizar, no entender. El sedimento no se "arregla": se hereda con criterio o se hereda sin él.
+- El sistema es nuevo y todavía no hay reglas heredadas que examinar. No inventes capas por su antigüedad aparente.
+- El problema excede el alcance institucional aunque las reglas estén vigentes: considera `/escala`.
+- Se necesita optimizar un proceso cuyo propósito ya está claro. Esta lente aporta si hay que revisar sus supuestos, no por el mero hecho de que exista documentación.
 
-Si tu caso no se parece al de origen, dilo. Una lente que no sabe cuándo no aplica es exactamente el problema que describe.
+Si el caso difiere del de origen, explica la diferencia relevante. La antigüedad de una regla no prueba su obsolescencia, y la ausencia de su historia no prueba que sea mala.

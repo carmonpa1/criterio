@@ -1,51 +1,54 @@
 ---
 name: sede-vacante
-description: Lente de diseño para preparar un sistema ante la ausencia de quien lo dirige — planificar sucesiones, relevos, salidas, bajas o cualquier vacío de liderazgo sin que el sistema se rompa ni se paralice. Úsala siempre que el usuario hable de sucesión, relevo, traspaso, salida de un fundador o socio, dependencia de una persona clave, bus factor, qué pasa si alguien falta, continuidad del negocio, delegación de decisiones, o cuando diga que "sin fulano esto no funciona" o que un equipo o empresa depende demasiado de alguien.
+description: Lente para preparar continuidad y relevo ante la ausencia de una persona clave. Úsala al planificar sucesiones, bajas o salidas cuando decisiones, relaciones o conocimiento dependen de alguien; un traspaso documental sin esa dependencia no requiere diseñar un interregno.
 ---
 
 # Sede vacante
 
-Una lente, no un método. Nace del ensayo *Sede vacante* (carlesmontrull.me/essays/sede-vacante), sobre la única institución que ha convertido el vacío de poder en un procedimiento reglado en vez de en una crisis.
+Una lente, no un método. Nace de [Sede vacante](https://carlesmontrull.me/essays/sede-vacante), que examina el interregno papal como un estado con reglas propias. La analogía ayuda a diseñar continuidad; la duración de una institución no demuestra por sí sola fidelidad a su propósito ni prescribe cómo debe gobernarse otra.
 
 ## La idea que sostiene la lente
 
-Casi todas las organizaciones tratan la ausencia del líder como una emergencia que hay que tapar cuanto antes. Nombran un interino, comprimen el proceso, improvisan bajo presión — y descubren en el peor momento cuántas decisiones dependían de una sola cabeza.
+La ausencia de quien dirige deja expuestas dependencias que podían pasar inadvertidas. Si todo debe resolverse al mismo tiempo que ocurre la salida, la urgencia puede sustituir al procedimiento.
 
-La alternativa existe y tiene siglos de prueba: **diseñar el vacío en lugar de taparlo**. Que la ausencia sea un estado previsto, con nombre, duración y reglas propias; que durante ese estado el sistema siga operando aunque no haya nadie decidiendo; y que la sucesión ocurra dentro de un procedimiento que ya existía antes de hacer falta.
+**Diseñar el vacío** consiste en definir un estado transitorio: qué continúa, qué espera y quién conserva autoridad limitada mientras llega el relevo. No requiere que toda la organización deje de decidir.
 
-La diferencia clave: un plan de sucesión responde *quién sigue*. Esta lente responde *cómo se atraviesa el hueco*. No son lo mismo, y tener nombrado al siguiente no evita el pánico del vacío — lo pospone.
+Elegir quién sigue y preparar cómo se atraviesa el intervalo son problemas relacionados, pero distintos. Un sistema puede tener resueltos ambos; esta lente también debe reconocerlo.
 
 ## Cómo aplicar la lente
 
-Pide al usuario el sistema y de quién depende. Después:
+Parte de la persona que podría faltar, el propósito que debe continuar y los mecanismos de sustitución existentes. Pide lo necesario para distinguir dependencia de incomodidad temporal. Si trasladas un mecanismo concreto del caso papal, consulta el ensayo y delimita la analogía; sin acceso, no atribuyas al original detalles no comprobados.
 
-**1. Mapa de dependencia.** Lista qué deja de funcionar si esa persona no está mañana. Sé concreto: decisiones que solo ella toma, relaciones que solo ella sostiene, conocimiento que solo ella tiene, aprobaciones que solo ella firma. Distingue lo que se para de lo que solo se ralentiza.
+**1. Mapa de dependencia.** Identifica decisiones, relaciones, conocimiento y accesos que dependen de esa persona. Distingue qué se para, qué se ralentiza y qué ya tiene sustituto probado. Contrasta si la dificultad procede de la ausencia o de una sobrecarga o un proceso deficiente que también existiría con ella presente.
 
-**2. El estado de vacío.** ¿Existe hoy un estado definido para "no hay nadie al mando"? Casi nunca existe. Diséñalo: qué se sigue haciendo con normalidad, qué se congela deliberadamente, cuánto dura como máximo, y quién puede declararlo empezado y terminado. Congelar a propósito es una decisión legítima: el error es que se congele por sorpresa.
+**2. El estado de vacío.** Examina el protocolo actual antes de proponer otro. Define qué continúa, qué se congela y quién puede activar y cerrar la fase. Vincula su duración a obligaciones reales; si no se conocen, deja el plazo por decidir. No inventes autoridad para quien esté disponible.
 
-**3. Lo que no debe decidirse en el hueco.** Durante el interregno hay decisiones que no le pertenecen a nadie — las que comprometen el futuro de quien todavía no ha llegado. Nómbralas explícitamente. Un vacío bien diseñado protege al sucesor de las decisiones que otros tomarían en su nombre.
+**3. Lo que puede esperar y lo que no.** Identifica decisiones que comprometerían al sucesor y pueden aplazarse. Compara el daño de actuar con el de esperar. Para las urgencias que no admiten demora, concreta autoridad temporal, límites y registro para el relevo. Congelar sin atender obligaciones también puede causar daño.
 
-**4. El procedimiento de relevo.** Cómo se elige, quién participa, qué información se usa, en cuánto tiempo. Lo importante no es que sea sofisticado: es que exista antes de hacer falta y que todos lo conozcan. Un procedimiento improvisado bajo urgencia siempre favorece al que tiene más poder en ese momento, no al mejor sucesor.
+**4. El procedimiento de relevo.** Especifica cómo se elige, quién participa, con qué información y quién puede resolver un bloqueo. Si vence el plazo sin sucesor, define quién puede autorizar una prórroga limitada, activar otra vía de selección o decidir el cierre, y bajo qué condiciones. La falta de respuesta no concede poderes nuevos. Si el procedimiento existente cubre estos casos, consérvalo.
 
-**5. Lo que viaja y lo que no.** Separa lo transferible — procesos, documentación, accesos, contactos — de lo que muere con la persona: criterio, relaciones, juicio en casos que ninguna regla prevé. Esto último no se traspasa en un handoff; solo se transmite por exposición, y eso exige tiempo que hay que decidir gastar ahora.
+**5. Lo que viaja y lo que exige práctica.** Separa procesos, accesos y contactos de conocimiento situado y confianza. Casos comentados, razones y excepciones transmiten parte del criterio; acompañar decisiones y presentar al relevo permite practicarlo y construir relaciones. No prometas que un documento lo transmite todo ni que no puede transmitir nada. Prioriza una dependencia real y qué evidencia permitiría comprobar que se ha reducido.
 
 ## Formato de salida
 
-Un acta breve, en prosa:
+Un acta breve, en prosa. Desarrolla solo lo que el caso permita; si la lente no aplica o falta evidencia decisiva, explica el límite y cierra con la pregunta pertinente, sin completar apartados ficticios:
 
-- El mapa de dependencia, con lo que se para y lo que solo se ralentiza.
-- El estado de vacío propuesto: qué sigue, qué se congela, cuánto dura, quién lo declara.
-- Las decisiones que no deben tomarse durante el hueco.
-- Qué es transferible y qué exige exposición — con el tiempo que haría falta empezar a gastar ya.
-- Una derivación a las otras lentes: qué parte del hallazgo ya no es de sede vacante sino de otra — reglas heredadas que nadie revisó a `/sedimento`, defensibilidad o foso a `/instancia`, un problema más grande que la institución a `/escala`, decisiones que un sistema automático no debería tomar a `/jurisdiccion` — señalada, sin desarrollarla.
-- La pregunta que cierra el acta, dirigida al usuario y que él tiene que responder: qué parte de su criterio va a empezar a transmitir este mes, sabiendo que es lo único que no cabe en ningún documento. No es un ofrecimiento de profundizar ni un "¿quieres que siga?".
+- El mapa de dependencia, separando hechos, inferencias y capacidades aún no probadas. Si no hay dependencia relevante, dilo; si faltan datos, no diseñes una crisis imaginaria.
+- El estado transitorio propuesto o confirmado: qué sigue, qué se congela, quién lo activa y qué limita su duración.
+- Las decisiones aplazables y las urgentes, con autoridad y límites durante el intervalo.
+- El procedimiento de relevo, incluido el bloqueo o vencimiento sin sucesor y las designaciones pendientes.
+- Lo documentable, lo que exige práctica y cómo comprobar la transferencia. Incluye la explicación alternativa si el problema no procede de la ausencia.
+- Si hay un hallazgo fuera de su alcance, una derivación a las otras lentes: qué parte del hallazgo ya no es de sede vacante sino de otra — reglas heredadas que nadie revisó a `/sedimento`, defensibilidad o foso a `/instancia`, un problema más grande que la institución a `/escala`, decisiones que un sistema automático no debería tomar a `/jurisdiccion` — señalada, sin desarrollarla.
+- La pregunta que cierra el acta devuelve la cuestión concreta que queda en manos del usuario: qué dependencia atender primero, quién puede resolver el bloqueo o qué prueba haría confiar en un protocolo ya definido. No presupongas que deba transmitir algo este mes. No es un ofrecimiento de profundizar ni un "¿quieres que siga?".
 
 Tono: sobrio y práctico. Esto se habla con gente que teme el tema; se trata como ingeniería, no como duelo. El acta termina en esa pregunta; no se ofrece a continuar.
 
 ## Cuándo desconfiar de esta lente
 
-Se formó analizando una institución milenaria y organizaciones con dependencia fuerte de fundadores. Funciona peor cuando:
+Se formó a partir del interregno de una institución longeva. Funciona peor cuando:
 
-- El sistema es muy pequeño y el "vacío" es sencillamente el fin del proyecto. No todo tiene que sobrevivir a su autor; a veces la respuesta correcta es que termine (usa `/instancia` para decidir si la permanencia es una decisión o una herencia).
-- El problema no es la ausencia sino que las reglas que quedarían ejecutándose ya no tienen sentido (usa `/sedimento`).
-- El usuario busca un organigrama. Esta lente diseña el hueco, no rellena casillas.
+- El fin de la participación de su autor es también el fin deliberado del proyecto. Considera `/instancia` si la permanencia está en discusión.
+- El problema es que las reglas restantes ya no tienen sentido: considera `/sedimento`.
+- Se busca un organigrama sin un problema de continuidad. La lente se ocupa del intervalo, no de rellenar casillas.
+
+Conservar el sistema no garantiza conservar su propósito. La sucesión debe contrastarse con aquello que se quiere sostener, no solo con que haya alguien ocupando el puesto.
