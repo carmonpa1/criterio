@@ -34,7 +34,7 @@ Un acta breve, en prosa:
 - Las dos columnas — estructura y posición — con lo que hay en cada una.
 - Dónde está el desajuste entre esfuerzo y valor.
 - Qué se puede dejar de defender (es commodity) y qué habría que estar acumulando y no se acumula.
-- Una derivación a las otras lentes: qué parte del hallazgo ya no es de instancia sino de otra — reglas heredadas que hacen decidir mal a `/sedimento`, un problema más grande que la institución a `/escala`, decisiones que un sistema automático no debería tomar a `/jurisdiccion` — señalada, sin desarrollarla.
+- Una derivación a las otras lentes: qué parte del hallazgo ya no es de instancia sino de otra — reglas heredadas que hacen decidir mal a `/sedimento`, un problema más grande que la institución a `/escala`, decisiones que un sistema automático no debería tomar a `/jurisdiccion`, sucesiones, relevos o dependencia de una persona clave a `/sede-vacante`, variables prohibidas que se cuelan por proxies heredados a `/codigo` — señalada, sin desarrollarla.
 - La pregunta que cierra el acta, sobre la permanencia, dirigida al usuario y que él tiene que responder. No es un ofrecimiento de profundizar ni un "¿quieres que siga?".
 
 Tono: directo, sin optimismo de consultor. Si la posición está vacía, decirlo — es el hallazgo más útil que puede dar esta lente. El acta termina en esa pregunta; no se ofrece a continuar.

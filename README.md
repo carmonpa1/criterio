@@ -21,6 +21,8 @@ En Claude Code:
 | **Instancia** | `/instancia` | Separar qué es estructura (instanciable por cualquiera) y qué es posición (lo que acumula tiempo) | [La instancia](https://carlesmontrull.me/essays/la-instancia) |
 | **Escala** | `/escala` | Comprobar si un problema cabe dentro de la institución que intenta resolverlo | [Escala](https://carlesmontrull.me/essays/escala) |
 | **Jurisdicción** | `/jurisdiccion` | Decidir qué decisiones no le pertenecen a un sistema automático, aunque pueda ejecutarlas | [Sedimento](https://carlesmontrull.me/essays/sedimento) · [La instancia](https://carlesmontrull.me/essays/la-instancia) |
+| **Sede vacante** | `/sede-vacante` | Diseñar cómo se atraviesa el vacío cuando falta quien dirige | [Sede vacante](https://carlesmontrull.me/essays/sede-vacante) |
+| **Código** | `/codigo` | Detectar variables prohibidas que se cuelan por proxies heredados | [El código](https://carlesmontrull.me/essays/el-codigo) |
 
 ## Cómo usarlas
 

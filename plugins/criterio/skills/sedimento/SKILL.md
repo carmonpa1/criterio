@@ -39,7 +39,7 @@ Un acta breve, en prosa, sin encabezados grandilocuentes:
 - Las reglas encontradas, con su clasificación (con expediente / caducado / sin expediente).
 - Las dos o tres reglas donde un ejecutor perfecto haría daño, y por qué.
 - La frontera propuesta entre lo que se puede codificar y lo que necesita una persona con criterio.
-- Una derivación a las otras lentes: qué parte del hallazgo ya no es de sedimento sino de otra — defensibilidad o foso a `/instancia`, un problema más grande que la institución a `/escala`, decisiones que un sistema automático no debería tomar a `/jurisdiccion` — señalada, sin desarrollarla.
+- Una derivación a las otras lentes: qué parte del hallazgo ya no es de sedimento sino de otra — defensibilidad o foso a `/instancia`, un problema más grande que la institución a `/escala`, decisiones que un sistema automático no debería tomar a `/jurisdiccion`, sucesiones, relevos o dependencia de una persona clave a `/sede-vacante`, variables prohibidas que se cuelan por proxies heredados a `/codigo` — señalada, sin desarrollarla.
 - La pregunta que cierra el acta, dirigida al usuario y que él tiene que responder: qué caso de origen puede recuperar él que tú no puedes. No es un ofrecimiento de profundizar ni un "¿quieres que siga?".
 
 Tono: declarativo, concreto, sin moralizar. Las reglas sin expediente se señalan, no se ridiculizan — casi siempre protegieron algo real. El acta termina en esa pregunta; no se ofrece a continuar.

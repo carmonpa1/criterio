@@ -35,7 +35,7 @@ Un acta breve, en prosa:
 - El veredicto: cabe o no cabe.
 - Si no cabe: qué parte del problema sí es abordable en la escala actual (casi siempre hay una) y qué parte requiere otra cosa.
 - Una advertencia explícita contra la falsa solución habitual — más presupuesto, más reuniones, más reorganización — cuando el problema es de escala.
-- Una derivación a las otras lentes: qué parte del hallazgo ya no es de escala sino de otra — reglas heredadas que nadie revisó a `/sedimento`, defensibilidad o foso a `/instancia`, decisiones que un sistema automático no debería tomar a `/jurisdiccion` — señalada, sin desarrollarla.
+- Una derivación a las otras lentes: qué parte del hallazgo ya no es de escala sino de otra — reglas heredadas que nadie revisó a `/sedimento`, defensibilidad o foso a `/instancia`, decisiones que un sistema automático no debería tomar a `/jurisdiccion`, sucesiones, relevos o dependencia de una persona clave a `/sede-vacante`, variables prohibidas que se cuelan por proxies heredados a `/codigo` — señalada, sin desarrollarla.
 - La pregunta que cierra el acta, dirigida al usuario y que él tiene que responder: qué va a hacer con la parte que sí cabe en su escala. No es un ofrecimiento de profundizar ni un "¿quieres que siga?".
 
 Tono: frío y preciso. No moralizar sobre los decisores: el punto de la lente es que el fallo no es moral. El acta termina en esa pregunta; no se ofrece a continuar.
