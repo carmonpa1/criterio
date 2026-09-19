@@ -2,6 +2,8 @@
 
 Lentes de análisis destiladas de los ensayos de [carlesmontrull.me](https://carlesmontrull.me).
 
+Carles Montrull — [carlesmontrull.me](https://carlesmontrull.me) · [LinkedIn](https://www.linkedin.com/in/carlesmontrull)
+
 No son métodos ni checklists. Son formas de mirar: cada una nació analizando un caso concreto, y cada una viaja con ese caso pegado. Una regla separada de su origen se vuelve inimpugnable — y eso es justo lo que estas lentes intentan evitar en sí mismas.
 
 ## Instalación
@@ -9,7 +11,7 @@ No son métodos ni checklists. Son formas de mirar: cada una nació analizando u
 En Claude Code:
 
 ```
-/plugin marketplace add carlesmontrull/criterio
+/plugin marketplace add carmonpa1/criterio
 /plugin install criterio
 ```
 
