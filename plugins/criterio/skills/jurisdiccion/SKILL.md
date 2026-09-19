@@ -44,8 +44,10 @@ Un acta breve, en prosa:
 - La lista explícita de lo que el sistema no hará nunca, redactada como se escribiría en un documento operativo.
 - El camino corto que la métrica permite, si lo hay.
 - Qué persona concreta recibe lo que se escala — la jurisdicción sin destinatario no existe.
+- Una derivación a las otras lentes: qué parte del hallazgo ya no es de jurisdicción sino de otra — reglas heredadas que nadie revisó a `/sedimento`, defensibilidad o foso a `/instancia`, un problema más grande que la institución a `/escala` — señalada, sin desarrollarla.
+- La pregunta que cierra el acta, dirigida al usuario y que él tiene que responder: qué decisión de las que hoy deja al sistema va a devolver a una persona. No es un ofrecimiento de profundizar ni un "¿quieres que siga?".
 
-Tono: operativo. Esto se escribe para pegarlo en un prompt, en una política o en un contrato.
+Tono: operativo. Esto se escribe para pegarlo en un prompt, en una política o en un contrato. El acta termina en esa pregunta; no se ofrece a continuar.
 
 ## Cuándo desconfiar de esta lente
 
