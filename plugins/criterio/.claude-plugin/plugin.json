@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "criterio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lentes de análisis de sistemas, destiladas de los ensayos de carlesmontrull.me. No son métodos: son formas de mirar, cada una con su caso de origen.",
   "author": {
     "name": "Carles Montrull",
