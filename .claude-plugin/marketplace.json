@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "criterio",
+  "version": "1.0.0",
+  "description": "Lentes para mirar sistemas, destiladas de los ensayos de carlesmontrull.me",
+  "owner": {
+    "name": "Carles Montrull",
+    "url": "https://carlesmontrull.me"
+  },
+  "plugins": [
+    {
+      "name": "criterio",
+      "source": "./plugins/criterio",
+      "description": "Lentes de análisis de sistemas, destiladas de los ensayos de carlesmontrull.me. No son métodos: son formas de mirar, cada una con su caso de origen.",
+      "category": "productivity"
+    }
+  ]
+}
